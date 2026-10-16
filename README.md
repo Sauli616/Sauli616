@@ -1,11 +1,11 @@
-# Sauli 616  
+# simplyanni 
 👋 Welcome to my profile!
 
 I'm **Sauli** — I get interested in all kinds of things and love learning new stuff, even if I learn slowly. I enjoy exploring, experimenting, and improving one step at a time.
 
 ---
 
-## 🛠 Technologies & Tools
+##  Technologies & Tools
 I'm still learning these — one line of code at a time:
 - JavaScript, Python, C#  
 - React, Node.js, .NET  
@@ -13,9 +13,6 @@ I'm still learning these — one line of code at a time:
 
 ---
 
-## 📺 YouTube  
-I also make content on YouTube:  
-[👉 Check out my channel “Sauli616”](https://www.youtube.com/@Sauli616)  
 
 What you’ll find:
 - Random gaming videos  
@@ -24,10 +21,10 @@ What you’ll find:
 
 ---
 
-## 🚀 Goals  
+## Goals  
 - Build projects I can be proud of  
 - Improve my skills across different topics  
-- Learn something new every day (or at least try 😄)
+- Learn something new every day (or at least try)
 
 ---
 
